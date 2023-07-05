@@ -71,6 +71,6 @@ Une fois que vous avez installé et lancé l'application de bureau de gestion de
 
 ## Crédits
 
-L'application de bureau de gestion de stock a été créée par BENZALA Noutaila, ELBOUAZZAOUI Asmaa, ABOU BICHARA Manal pour leur projet de fin d'année. Remerciements particuliers à M. AMEKSA Mohamed pour ses conseils et son soutien.
+L'application de bureau de gestion de stock a été créée par ELBOUAZZAOUI Asmaa, BENZALA Noutaila et ABOU BICHARA Manal pour leur projet de fin d'année. Remerciements particuliers à M. AMEKSA Mohamed pour ses conseils et son soutien.
 
 
